@@ -7,7 +7,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "7989959735:AAGon-OBS5Yj3DhTCa-iw6m2B8zH
 ADMIN = int(os.environ.get("ADMIN", "6662808885"))
 PICS = (os.environ.get("PICS", "https://i.ibb.co/svdv1VLq/photo-2025-07-15-11-45-09-7527273414256492548.jpg")).split()
 
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002778873953"))
 NEW_REQ_MODE = os.environ.get("NEW_REQ_MODE", "False").lower() == "true"  # Set "True" For accept new requests
 
 DB_URI = os.environ.get("DB_URI", "mongodb+srv://vinod974323:hYGsyibIw10Fp7x1@cluster0.6pbo1a2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
