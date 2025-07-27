@@ -4,7 +4,7 @@ from typing import List
 API_ID = os.environ.get("API_ID", "23416113")
 API_HASH = os.environ.get("API_HASH", "5f66046e7129c9bf6e2b3da943ae2993")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7989959735:AAGon-OBS5Yj3DhTCa-iw6m2B8zHNT0gLQs")
-ADMIN = int(os.environ.get("ADMIN", "6662808885"))
+ADMIN = int(os.environ.get("ADMIN", "8266697311"))
 PICS = (os.environ.get("PICS", "https://i.ibb.co/svdv1VLq/photo-2025-07-15-11-45-09-7527273414256492548.jpg")).split()
 
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002778873953"))
