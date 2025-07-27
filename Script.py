@@ -21,7 +21,7 @@ class text(object):
 ‣ ᴅᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏᴅʙ</a>
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://www.koyeb.com/'>ᴋᴏʏᴇʙ</a>
-‣ ᴄʀᴇᴀᴛᴇᴅ ʙʏ : <a href='https://telegram.me/callownerbot'>SK_BRO</a></b>"""
+‣ ᴄʀᴇᴀᴛᴇᴅ ʙʏ : <a href='https://telegram.me/SkHelpq_bot'>SK_BRO</a></b>"""
 
     HELP = """{},
 
